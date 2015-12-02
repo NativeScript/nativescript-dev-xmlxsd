@@ -1,6 +1,6 @@
 {
   "name": "nativescript-dev-xmlxsd",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "XML validation against XSD schema for NativeScript projects.",
   "scripts": {
     "test": "exit 0",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "tns-core-modules-xsd-schema": "*",
-    "libxmljs": "https://github.com/rosen-vladimirov/libxmljs/releases/tag/0.15.0.0",
+    "libxmljs": "https://github.com/NativeScript/libxmljs/tarball/0.15.0.0",
     "gaze": "^0.5.2",
     "glob": "*",
     "lodash": "^3.10.1",
