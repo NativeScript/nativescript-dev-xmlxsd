@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "tns-core-modules-xsd-schema": "*",
-    "libxmljs": "https://github.com/NativeScript/libxmljs/tarball/0.15.0.0",
+    "libxmljs": "https://github.com/NativeScript/libxmljs/tarball/0.15.0.0",
     "gaze": "^0.5.2",
     "glob": "*",
     "lodash": "^3.10.1",
