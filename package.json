@@ -1,6 +1,6 @@
 {
   "name": "nativescript-dev-xmlxsd",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "XML validation against XSD schema for NativeScript projects.",
   "scripts": {
     "test": "exit 0",
